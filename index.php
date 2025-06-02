@@ -73,7 +73,7 @@ $name = "Amalanadhuni Venkata Sai Dinesh";
 $college = "NIT Calicut";
 $role = "Frontend Developer";
 $skills = ["HTML", "CSS", "JavaScript"];
-$email = "amalanadhunidinesh@gmail.com"; // Replace with your real email
+$email = "amalanadhunidinesh@gmail.com"; 
 ?>
 
 <header>
