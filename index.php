@@ -72,7 +72,7 @@
 $name = "Amalanadhuni Venkata Sai Dinesh";
 $college = "NIT Calicut";
 $role = "Frontend Developer";
-$skills = ["HTML", "CSS", "JavaScript"];
+$skills = ["HTML", "CSS", "JavaScript","PHP","MySQL"];
 $email = "amalanadhunidinesh@gmail.com"; 
 ?>
 
